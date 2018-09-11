@@ -287,6 +287,9 @@ manipulate the DOM. Then we saw how powerful it is to pair Handlebars
 templates with XHR to create dynamic web applications, and how we can use these tools to adhere to
 separation of concerns and write modular, well-organized code.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-ajax-advanced-ajax-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-ajax-advanced-ajax-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [Handlebars](http://handlebarsjs.com/)
